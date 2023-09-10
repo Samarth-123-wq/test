@@ -1,0 +1,5 @@
+{{#user}}
+Name: Samarth Jain
+Skills: HTML, CSS, JS, Next.js,React.js,MongoDB,Nodejs,Express,C++
+Email: samarthjain994@gmail.com
+{{/user}}
